@@ -4,7 +4,7 @@
 
 ### Chapter 2
 
-* What an operating system?
+* What is an operating system?
   * what does it do?
 * What is virtualization?
 * How does an OS provide access to its features?
