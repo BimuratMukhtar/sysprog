@@ -2,7 +2,7 @@
 
 ## Final Exam Questions
 
-#### Chapter 26
+### Chapter 26
 
 * How does the thread creation interface presented in this chapter differ from `fork()`?
 * Say we had a new syscall, `thread_fork()`, that made a new thread that started at the return of this call. How would this differ from `fork()`?
@@ -16,9 +16,9 @@
 * What does it mean for a program to be deterministic?
 * What does it mean for a program to be indeterminate?
 
-#### Chapter 27
+### Chapter 27
 
-#### Chapter 28
+### Chapter 28
 
 * Why do we need locks?
 * What are the possible states of a _lock_?
