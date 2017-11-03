@@ -27,7 +27,7 @@
   * What are the drawbacks?
     * starvation possible
     * wasted CPU resources
-* How do test-and-set and compare-and-swap differ?
+* How do _test-and-set_ and _compare-and-swap_ differ?
 * What is the advantage of ticket locks over simple spinlocks?
   * no starvation
   
