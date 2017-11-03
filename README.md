@@ -31,7 +31,24 @@
 * What is the advantage of ticket locks over simple spinlocks?
   * no starvation
   
-* Why does the code in Fig. 28.8 (locks with queues) test-and-set `guard` instead of `flag`?
+* Why does the code in Fig. 28.9 (locks with queues) test-and-set `guard` instead of `flag`?
+
+```C
+typedef struct{
+  int flag;
+  int guard;
+  queue_t * q;
+} lock _t;
+
+void lock_init(lock_t * m) {
+  m->flag  = 0;
+  m->guard = 0;
+  queue_init(m->q);
+}
+...
+
+```
+
 * Why is spin waiting in the `QueueLock` better than spin waiting in general?
   * limited to spin waiting on lock that guards the queue, not the general lock
 * What does `park` & `unpark` do in `Solaris`?
