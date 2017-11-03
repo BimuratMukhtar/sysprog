@@ -24,6 +24,10 @@
 * Why would we ever write a multi-threaded program?
 * What is atomicity?
   * Is a C++ statement atomic?
+  * Is a C statement atomic?
+  * Is a Java statement atomic?
+  * Is a NASM statement atomic?
+  
 * What does persistence mean?
 * How does OS hard drive virtualization differ from CPU & memory virtualization?
 * How does running multiple programs at the same time increase CPU efficiency?
