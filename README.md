@@ -4,6 +4,18 @@
 
 #### Chapter 26
 
+* How does the thread creation interface presented in this chapter differ from `fork()`?
+* Say we had a new syscall, `thread_fork()`, that made a new thread that started at the return of this call. How would this differ from `fork()`?
+* Do we need to flush the _TLB_ when context switching between threads in the same process?
+* What is a _race condition_?
+* How are _race conditions_ and _critical sections_ related?
+* How does _mutual exclusion_ prevent race conditions?
+* How does _atomicity_ prevent race conditions?
+* Why are atomic instructions an impractical solution, by themselves, to prevent race conditions?
+  * would need an atomic operation for every possible use case: add to a queue, insert into a  b-tree, etc..
+* What does it mean for a program to be deterministic?
+* What does it mean for a program to be indeterminate?
+
 #### Chapter 27
 
 #### Chapter 28
