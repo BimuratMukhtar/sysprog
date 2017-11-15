@@ -82,7 +82,6 @@
 
 * How does a spin lock work?
   * What does it require from the hardware?
-  * What are the drawbacks?
     * test-and-set or compare-and-swap
   * What are the drawbacks?
     * starvation possible
