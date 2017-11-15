@@ -2,53 +2,12 @@
 
 ## Final Exam Questions
 
-### Chapter 2
+* [Dialogue](ch01.md)
+* [Introduction to OS](ch02.md)
+* [Dialogue](ch03.md)
+* [Processes](ch04.md)
 
-* What is an operating system?
-  * what does it do?
-* What is virtualization?
-* How does an OS provide access to its features?
-* What illusion does a virtualized CPU provide?
-* How does this affect the user experience?
-  * developer experience?
-  * what if the CPU were not virtualized?
-  
-* What is a memory address?
-* What is memory virtualization?
-* Why would we want this?
-* What happens if you write a C++ program that writes past the end of an array?
-  * can this affect other programs?
-  
-* What is a thread?
-  * what does this imply about your previous programs?
-* Why would we ever write a multi-threaded program?
-* What is atomicity?
-  * Is a C++ statement atomic?
-  * Is a C statement atomic?
-  * Is a Java statement atomic?
-  * Is a NASM statement atomic?
-  
-* What does persistence mean?
-* How does OS hard drive virtualization differ from CPU & memory virtualization?
-* How does running multiple programs at the same time increase CPU efficiency?
-* What is multiprogramming?
 
-### Chapter 3
-
-### Chapter 4
-
-* What is a register, stack, heap, instruction pointer, stack pointer?
-* What is a process?
-  * what does is represent?
-  * what does it abstract?
-  * what is included in the abstraction?
-
-* How does timesharing provide virtualization?
-* What is the difference between the ***Ready*** and ***Running*** states?
-* Why might you want to be able to create/destroy/suspend a process?
-* Should there be a limit on the number of processes a user can run concurrently?
-* Why is it a good idea to separate mechanism from policy?
-* How ***PCB*** is called in Linux? Can you find it and show?
 
 ### Chapter 26
 
