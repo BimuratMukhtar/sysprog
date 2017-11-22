@@ -8,6 +8,7 @@
 4. [Processes](ch04.md)
 5. Processes API
 6. [Limited Direct Execution](ch06.md)
+7. [Scheduling](ch07.md)
 ...
 
 ## Final Exam Questions (concurrency)
