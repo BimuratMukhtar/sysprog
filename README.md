@@ -8,8 +8,10 @@
 4. [Processes](ch04.md)
 5. Processes API
 6. [Limited Direct Execution](ch06.md)
-7. [Scheduling](ch07.md)
-...
+7. [Scheduling 1](ch07.md)
+8. [Scheduling 2](ch08.md)
+9. [Scheduling 3](ch09.md)
+10. [Address Space and Address Translation](ch10.md)
 
 ## Final Exam Questions (concurrency)
 
