@@ -18,9 +18,9 @@
 14. [Memory API](ch14.md)
 15. [Address Translation](ch13and15.md)
 16. [Segmentation](ch16.md)
-17. Free Space Management
-18. [Paging](ch17.md)
-19. [TLBs](ch18.md)
+17. [Free Space Management](ch17.md)
+18. [Paging](ch18and19.md)
+19. [TLBs](ch18and19.md)
 
 ## Final Exam Questions (concurrency)
 
