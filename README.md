@@ -21,6 +21,11 @@
 17. [Free Space Management](ch17.md)
 18. [Paging](ch18and19.md)
 19. [TLBs](ch18and19.md)
+20. Advanced Page Tables
+21. [Swapping: Mechanism](ch18and19.md)
+22. [Swapping: Policy](ch18and19.md)
+23. VAX/VMS
+24. Summary
 
 ## Final Exam Questions (concurrency)
 
