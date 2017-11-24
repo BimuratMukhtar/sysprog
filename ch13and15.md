@@ -20,5 +20,5 @@
 * Why is modifying the base and bounds registers a privileged instruction?
 * Why does the hardware provide address translation?
 * How does static relocation differ from dynamic relocation?
-  * what is are the drawbacks of static relocation?
+  * what is/are the drawback(s) of static relocation?
 * What is internal fragmentation?
