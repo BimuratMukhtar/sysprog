@@ -22,8 +22,8 @@
 18. [Paging](ch18and19.md)
 19. [TLBs](ch18and19.md)
 20. Advanced Page Tables
-21. [Swapping: Mechanism](ch18and19.md)
-22. [Swapping: Policy](ch18and19.md)
+21. [Swapping: Mechanism](ch21and22.md)
+22. [Swapping: Policy](ch21and22.md)
 23. VAX/VMS
 24. Summary
 
