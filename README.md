@@ -11,8 +11,11 @@
 7. [Basic CPU Scheduling](ch07.md)
 8. [Multi-level Feedback Scheduling](ch08.md)
 9. [Lottery Scheduling](ch09.md)
-13&15. [Address Space and Address Translation](ch13and15.md)
+13. [Address Space and Address Translation](ch13and15.md)
 14. [Memory API](ch14.md)
+15. [Address Space and Address Translation](ch13and15.md)
+16. [Segmentation](ch16.md)
+
 
 ## Final Exam Questions (concurrency)
 
